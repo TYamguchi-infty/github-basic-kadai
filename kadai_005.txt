@@ -1,0 +1,23 @@
+C:\Users\x913p\OneDrive\デスクトップ\侍エンジニア_データサイエンスコース\課題>cd Git
+
+C:\Users\x913p\OneDrive\デスクトップ\侍エンジニア_データサイエンスコース\課題\Git>git init git_challenge
+Initialized empty Git repository in C:/Users/x913p/OneDrive/デスクトップ/侍エンジニア_データサイエンスコース/課題/Git/git_challenge/.git/
+
+C:\Users\x913p\OneDrive\デスクトップ\侍エンジニア_データサイエンスコース\課題\Git>cd git_challenge
+
+C:\Users\x913p\OneDrive\デスクトップ\侍エンジニア_データサイエンスコース\課題\Git\git_challenge>git add .
+
+C:\Users\x913p\OneDrive\デスクトップ\侍エンジニア_データサイエンスコース\課題\Git\git_challenge>git commit -m "１回目の変更"
+[main (root-commit) 4ee12ca] １回目の変更
+ 1 file changed, 1 insertion(+)
+ create mode 100644 hello_world.txt
+
+C:\Users\x913p\OneDrive\デスクトップ\侍エンジニア_データサイエンスコース\課題\Git\git_challenge>git add .
+
+C:\Users\x913p\OneDrive\デスクトップ\侍エンジニア_データサイエンスコース\課題\Git\git_challenge>git commit -m "日本語訳を追加"
+[main 750ea24] 日本語訳を追加
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+C:\Users\x913p\OneDrive\デスクトップ\侍エンジニア_データサイエンスコース\課題\Git\git_challenge>git log --oneline
+750ea24 (HEAD -> main) 日本語訳を追加
+4ee12ca １回目の変更
